@@ -1,0 +1,7 @@
+/*write a program to display the message Hello World*/
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+primntf("Hello World");
+} 
